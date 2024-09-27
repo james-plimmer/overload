@@ -1,0 +1,7 @@
+{
+  "name": "overload",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
